@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "723e32025bd369842037f444",
+  "owner": "pbgkqv",
+  "repo": "page-5f620bfa355f66fa68215b50",
+  "title": "UMAX35",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5f620bfa355f66fa68215b50",
+      "a": "UMAX35",
+      "b": "2027最新官网",
+      "entity": "UMAX35",
+      "brand": "UMAX35",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "98f3d077830670c4197096b2900d93035233b6280e24fae0a3f0fbf3a6fd3bc7",
+      "content": {
+        "primary_entity": "UMAX35",
+        "keyword1": "UMAX35",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "多设备客户端适配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，围绕不同设备与使用强度提供三档订阅，从单人日常到团队多终端均可按需选择，按年付更省费用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度到线路等级逐步对照，快速匹配自己的使用场景。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备在线，适合单人日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线并针对游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备在线，提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "均衡性能",
+          "AI_FEATURE_TITLE_3": "团队多端",
+          "AI_GUIDE_INTRO": "先确认终端数量与用途，再对照套餐流量和线路等级，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "UMAX35 提供多档海外加速订阅方案，覆盖个人到团队的多设备连接需求，按年付可降低月均成本。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖多设备连接",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备区分",
+          "AI_HIGHLIGHT_2": "年付方案月均费用更低",
+          "AI_HIGHLIGHT_3": "按客户端文档快速配置订阅",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按日常设备数量和流量消耗，在基础版、旗舰版、团队版中先选定一档。",
+          "AI_STEP_TEXT_2": "核对在线设备上限、是否含 IPLC 专线、流媒体解锁与带宽节点等级是否满足需求。",
+          "AI_STEP_TEXT_3": "在对应设备上安装客户端，按文档导入订阅地址后连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "UMAX35 套餐与设备指南",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850。按设备数量和流量预期选择即可。",
+          "AI_FAQ_ANSWER_2": "可参考 UMAX35 的节点分组与客户端文档。普通线路适合日常浏览，IPLC 专线在游戏和实时互动中延迟表现更稳。建议先订阅基础版测试本地网络与常用节点，再按体验升级。",
+          "AI_FAQ_ANSWER_3": "在同一账号内，套餐的设备额度以所选档位为准。基础版 3 台、旗舰版 5 台、团队版 20 台。如需更多设备，可选择团队版，或在客户端中合理分配已登录设备。",
+          "AI_FAQ_ANSWER_4": "月付灵活、适合短期试用；年付折算到每月更省，基础版约 ¥12.5/月。如果确认长期使用，年付旗舰版约 ¥29/月，兼顾流量与专线加速。可先月付再决定是否转年付。",
+          "AI_FAQ_ANSWER_5": "常见组合是手机、电脑各装一个客户端，订阅导入后用同一账号登录。旗舰版 5 台设备可覆盖手机、平板、笔记本与备用机。团队版 20 台适合多成员或多终端并行使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "怎么判断自己适合普通线路还是专线？",
+          "AI_FAQ_QUESTION_3": "同一账号可以同时登录多少台设备？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "常用设备应该怎么搭配客户端？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1g1us324bddf.com",
+    "host": "xn--yfrw1g1us324bddf.com"
+  },
+  "file_hashes": {
+    "index.html": "d46dee1bc290b2b976cd67e1cede495309fad2e7c0d673cae53bfdc8c95515e6",
+    "sitemap.xml": "ca418c0ef934bbee0b76c5e9eb6ef487810a084b7f7871ab4d83ef0075e52c64",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "84b254fcc9759a6d211f3f418b5f0d030f593387c3e077e000f292277e42cae1",
+    "robots.txt": "12e7487d05485395b8a5d601e71c7aaf47ada0bedc052dcfe35b5eb38c957178",
+    "80c0a16154f32baa52345830ba6d339c.txt": "a293a1a26507d1a1c24c785069701651c2acaf9d94c054a99338a7ac0843828c"
+  },
+  "revision": "efaf726b4fcfe8dcf950a3469c653580fa82424dc1ec5fde570ab9dd7a1a9433"
+}
